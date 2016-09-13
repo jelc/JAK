@@ -231,7 +231,6 @@ JAK.XMLRPC._valueToDate = function(value) {
 		year: r[1],
 		month: r[2],
 		day: r[3],
-		dow: null,
 		hours: r[4],
 		minutes: r[5],
 		seconds: r[6]
